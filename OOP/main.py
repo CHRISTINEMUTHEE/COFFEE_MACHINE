@@ -8,8 +8,6 @@ my_menu=Menu()
 coffee_maker=CoffeeMaker()
 # Access the Money Machine class
 money_machine=MoneyMachine()
-
-
 is_on = True
 # Getting input from the user
 # While the machine is still on
